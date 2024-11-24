@@ -50,35 +50,36 @@ SQL - Data Exploration & Data Cleaning.
 
 This Project is a combination of many online SQL challenges from a variety of Sources. Each challenge comes from a different domain are involves a many processes in data analysis, such as Data loading in to SQL database, Data Cleaning and Data Exploration to generate insights. I have done few case-studies of 8-week SQL Challenge by Danny Ma, Data Cleaning on a Nashville Housing Data.
 
-PROFESSIONAL EXPERIENCE
-Senior Design Engineer. – Mechanical.
-Gostol TST India pvt.Ltd. (Nov 2017 - Nov 2022)
 
-Worked as Design Engineer in the R&D of Shotblasting Machine’s Structural Design and Analysis. Managed a team of Engineer in Designing, Planning and Project Execution. Handled client interaction with respect to designing aspects of the machine. Interacted with various departments of the organization in smooth Project Execution.
-Performed Data Querying and analysis using SQL to extract Project critical information for Detailed Planning and designing of Machine, for Cost estimation, Production Planning, and scheduling project execution dates.
-SKILLS
-Analytical Tools: Proficient in Power BI and MySQL, with Strong Excel Skills, Experience with programming in Jupyter notebook.
-Programming Languages: Expertise in SQL, Python and Libraries (NumPy, Pandas, Data Visualization through Matplotlib and Seaborne).
-Technical Skills: Experienced in Data Wrangling, Cleaning and Modeling. Analysis and Visualization of Data by Statistical Approach.
-Core Competencies: Able to work collaboratively with cross-functional teams and effectively communicate insights and recommendations to both technical and non-technical audiences. Can Quickly develop an understanding of a business and domain Knowledge.
+## PROFESSIONAL EXPERIENCE 
 
-CERTIFICATIONS
+### Senior Design Engineer.  – Mechanical.  
+Gostol TST India pvt.Ltd.  (Nov 2017 - Nov 2022)
+* Worked as Design Engineer in the R&D of Shotblasting Machine’s Structural Design and Analysis. Managed a team of Engineer in Designing, Planning and Project Execution. Handled client interaction with respect to designing aspects of the machine. Interacted with various departments of the organization in smooth Project Execution.  
+* Performed Data Querying and analysis using SQL to extract Project critical information for Detailed Planning and designing of Machine, for Cost estimation, Production Planning, and scheduling project execution dates.  
 
-*● Advanced SQL: MySQL Data Analysis & Business Intelligence - Udemy and Maven Analytics.
+## SKILLS
 
-*● SQL Beginner to Advance for Data Professionals - Codebasics.
+* Analytical Tools: Proficient in Power BI and MySQL, with Strong Excel Skills, Experience with programming in Jupyter notebook.  
+* Programming Languages: Expertise in SQL, Python and Libraries (NumPy, Pandas, Data Visualization through Matplotlib and Seaborne).  
+* Technical Skills: Experienced in Data Wrangling, Cleaning and Modeling. Analysis and Visualization of Data by Statistical Approach.  
+* Core Competencies:  Able to work collaboratively with cross-functional teams and effectively communicate insights and recommendations to both technical and non-technical audiences. Can Quickly develop an understanding of a business and domain Knowledge.  
 
-*● Microsoft Power BI Desktop for Business Intelligence - Udemy and Maven Analytics.
+## CERTIFICATIONS
 
-*● Get Job Ready: Power BI Data Analytics for All Levels - Codebasics.
+*●	Advanced SQL: MySQL Data Analysis & Business Intelligence - Udemy and Maven Analytics.  
+*●	SQL Beginner to Advance for Data Professionals - Codebasics.  
+*●	Microsoft Power BI Desktop for Business Intelligence - Udemy and Maven Analytics.  
+*●	Get Job Ready: Power BI Data Analytics for All Levels - Codebasics.  
+*●	Introduction to Data Analysis Using Excel – UpGrad.  
 
-*● Introduction to Data Analysis Using Excel – UpGrad.
+## EDUCATION 
 
-EDUCATION
-
-BACHELOR OF ENGINEERING - MECHANICAL (2013-2017)
+BACHELOR OF ENGINEERING - MECHANICAL (2013-2017)  
 University Visveswaraya College of Engineering (Bangalore University)
 
+FULL STACK DATA ANALYTICS (Dec 2022 – April 2023)  
+iNeuron.ai – Bangalore
 
 Professional Summary
 Detail-oriented and results-driven professional transitioning from a background in administration to data analysis. Skilled in Power BI, SQL, Python, and advanced data visualization techniques. Adept at managing large datasets, performing data cleaning, and crafting insightful dashboards to aid decision-making. Proficient in utilizing real-world datasets to generate actionable insights.
