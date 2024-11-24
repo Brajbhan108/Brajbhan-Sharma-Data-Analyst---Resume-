@@ -1,36 +1,34 @@
 # Brajbhan Sharma
 +919004301259; brajbhansharma42@gmail.com | www.linkedin.com/in/brajbhan-sharma-53332b1b1 | Portfolio Website ---------------- : | https://github.com/Brajbhan108
 
-## "Data Enthusiast seeking opportunities in the field of Data Analytics to drive strategic business decisions through impactful insights and data-driven decision making.”
+### "Detail-oriented and results-driven professional transitioning from a background in administration to data analysis. Enthusiastic about leveraging data analytics to drive strategic business decisions through impactful insights and data-driven methodologies."
 
 ## **PROJECT EXPERIENCE**
 
-## SQL – Unlocking Insights Through SQL Data Exploration and Mining. https://github.com/Brajbhan108/mysql_Project
+### SQL – Unlocking Insights Through SQL Data Exploration and Mining. https://github.com/Brajbhan108/mysql_Project
 
-**•	Highest-Paying Roles-** This analysis focuses on identifying the top salaries within the AI and Machine Learning fields. It highlights that these roles command the highest compensation, reaching up to 800,000, and are predominantly located in North America, particularly the US and Canada. This insight helps to understand the premium placed on these advanced tech roles in leading tech hubs.
+* 	Highest-Paying Roles-** This analysis focuses on identifying the top salaries within the AI and Machine Learning fields. It highlights that these roles command the highest compensation, reaching up to 800,000, and are predominantly located in North America, particularly the US and Canada. This insight helps to understand the premium placed on these advanced tech roles in leading tech hubs.
 
-**•	Remote vs. On-Site Salaries-** This analysis compares the average salaries for fully remote, on-site, and hybrid roles. It reveals that while remote roles offer competitive salaries, on-site roles generally pay slightly more. Hybrid roles tend to offer lower salaries. This finding provides a comprehensive view of how the work environment impacts salary levels.
+* Remote vs. On-Site Salaries-** This analysis compares the average salaries for fully remote, on-site, and hybrid roles. It reveals that while remote roles offer competitive salaries, on-site roles generally pay slightly more. Hybrid roles tend to offer lower salaries. This finding provides a comprehensive view of how the work environment impacts salary levels.
 
-**•	Regional Salary Variation-** This analysis examines the differences in average salaries across various countries. It shows that the US and Canada dominate high-paying jobs, with Israel and Qatar also offering high average salaries. This helps to map out global salary trends and identify regions that offer the most lucrative opportunities.
+*	Regional Salary Variation-** This analysis examines the differences in average salaries across various countries. It shows that the US and Canada dominate high-paying jobs, with Israel and Qatar also offering high average salaries. This helps to map out global salary trends and identify regions that offer the most lucrative opportunities.
 
-**•	Salaries by Experience Level-** This analysis compares average salaries across different experience levels, demonstrating a significant increase in compensation with experience. It shows salaries rising from an average of 91,000  at entry-level to 193,000  at executive levels. This highlights the value of experience in securing higher pay.
+*	Salaries by Experience Level-** This analysis compares average salaries across different experience levels, demonstrating a significant increase in compensation with experience. It shows salaries rising from an average of 91,000  at entry-level to 193,000  at executive levels. This highlights the value of experience in securing higher pay.
 
-**•	Company Size and Salaries-** This analysis determines the average salaries based on the size of the companies. It finds that medium-sized companies offer the highest average salaries, likely due to balanced budgets and workforce sizes, while small companies pay the least. This insight is useful for job seekers evaluating potential employers based on company size.
+*	Company Size and Salaries-** This analysis determines the average salaries based on the size of the companies. It finds that medium-sized companies offer the highest average salaries, likely due to balanced budgets and workforce sizes, while small companies pay the least. This insight is useful for job seekers evaluating potential employers based on company size.
 
-**•	Top Average Salaries by Country-** This analysis identifies countries with the highest average salaries. It reveals that Israel offers the highest average salaries, followed by Qatar and the US. These regions are noted for their high-value tech roles, making them attractive locations for tech professionals seeking top compensation.
+*	Top Average Salaries by Country-** This analysis identifies countries with the highest average salaries. It reveals that Israel offers the highest average salaries, followed by Qatar and the US. These regions are noted for their high-value tech roles, making them attractive locations for tech professionals seeking top compensation.
 
-**•	Top-Paying Roles-** This analysis finds that roles such as AI Architect and Data Science Tech Lead have the highest average salaries, often exceeding 250,000 . This highlights specific job titles that command premium pay within the tech industry.
+*	Top-Paying Roles-** This analysis finds that roles such as AI Architect and Data Science Tech Lead have the highest average salaries, often exceeding 250,000 . This highlights specific job titles that command premium pay within the tech industry.
 
-**•	Salary Growth Over Years-** This analysis tracks the growth of average salaries over different years. It shows that salaries have grown steadily, with a significant jump from 2022 to 2024, reflecting the rising demand for tech talent. This trend analysis is important for understanding how the tech job market is evolving.
+*	Salary Growth Over Years-** This analysis tracks the growth of average salaries over different years. It shows that salaries have grown steadily, with a significant jump from 2022 to 2024, reflecting the rising demand for tech talent. This trend analysis is important for understanding how the tech job market is evolving.
 
-**•	Salaries Paid in-** This analysis examines the dominance of salaries paid in , reflecting the influence of US-based companies in global tech hiring. It underscores the prevalence of the US dollar in the tech industry, which can impact global salary benchmarks.
+*	Salaries Paid in-** This analysis examines the dominance of salaries paid in , reflecting the influence of US-based companies in global tech hiring. It underscores the prevalence of the US dollar in the tech industry, which can impact global salary benchmarks.
 
-**•	Senior Remote Opportunities-** This analysis examines the availability of remote work opportunities and their associated salaries for senior-level employees. It finds that senior employees are more likely to have remote opportunities, which pay competitively compared to on-site roles. This insight is crucial for senior professionals considering remote work options.
+*	Senior Remote Opportunities-** This analysis examines the availability of remote work opportunities and their associated salaries for senior-level employees. It finds that senior employees are more likely to have remote opportunities, which pay competitively compared to on-site roles. This insight is crucial for senior professionals considering remote work options.
 
 
-Disclaimer : 
-This project was developed with the assistance of AI, specifically for data exploration, mining, and generating insights using SQL. The AI helped in refining SQL queries, summarizing findings, and providing guidance on best practices
-
+Disclaimer : This project was developed with the assistance of AI, specifically for summarizing findings and providing guidance on best practices.
 
 eCommerce Database Analysis – SQL Data Analyst Challenge at Maven Analytics.
 
