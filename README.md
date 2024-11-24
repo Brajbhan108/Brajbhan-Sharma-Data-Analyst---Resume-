@@ -1,4 +1,4 @@
-# Brajbhan-Sharma-Data-Analyst---Resume-
+# Brajbhan Sharma
 +919004301259; brajbhansharma42@gmail.com | www.linkedin.com/in/brajbhan-sharma-53332b1b1 | Portfolio Website ---------------- : | https://github.com/Brajbhan108
 
 "Data Enthusiast seeking opportunities in the field of Data Analytics to drive strategic business decisions through impactful insights and data-driven decision making.”
