@@ -1,20 +1,39 @@
 # Brajbhan Sharma
 +919004301259; brajbhansharma42@gmail.com | www.linkedin.com/in/brajbhan-sharma-53332b1b1 | Portfolio Website ---------------- : | https://github.com/Brajbhan108
 
-"Data Enthusiast seeking opportunities in the field of Data Analytics to drive strategic business decisions through impactful insights and data-driven decision making.”
+## "Data Enthusiast seeking opportunities in the field of Data Analytics to drive strategic business decisions through impactful insights and data-driven decision making.”
 
-PROJECT EXPERIENCE
+## **PROJECT EXPERIENCE**
 
-SQL – Data Exploration and Mining, Power BI – Dashboard.
-Analyzed sales data of a hardware manufacturing company and generated insights related to finance, sales, market, and supply chain analytics. With Bulk loading of data and establishing relationships in a Snowflake schema format between the tables with ERD in MySQL and data was ready for Analysis. Used statistical functions for data aggregation and summarization to generate Profit and Loss metrics, developed Stored Procedures for the complex queries to help product owners generate reports, established a pipeline to derive Key Metrics.
-Generated valuable reports to stakeholders on top markets, platforms, and customers. Metrics, such as Net Error, Absolute Net Error, and Forecast Accuracy, that helped businesses make informed decisions.
-Connected Power BI to MySQL and Excel, transformed data by establishing a data pipeline (ETL) using Power Query, Data Modelling to establish relations by snowflake schema and initial Data validation was done against benchmark values.
-● Utilized DAX to create calculated columns and measures to built a dynamic dashboard with features such as KPI’s, trends, Top Performers etc.
-Published a report on Power BI service for user acceptance testing (UAT) and Data validation through Excel Analyze.
-Incorporated stakeholder feedback to create an Executive Dashboard, resolved quality issues, optimized dashboard performance, and deployed the dashboard to Power BI service with gateway setup to MySQL Database and local Excel files for Automatic Data Refresh.
-Various Project Management Skills like Project charter, stakeholder mapping analysis, Kanban board for task assignment to improve productivity.
-A Designed dashboard with up to three levels of analysis, was able to ask the stakeholders many why’s, to their top performing, product, markets, customers, % changes and trends in P&L metrics, supply chain forecast accuracy for inventory management has helped to improve overall business.
+## SQL – Unlocking Insights Through SQL Data Exploration and Mining. https://github.com/Brajbhan108/mysql_Project
+
+**•	Highest-Paying Roles-** This analysis focuses on identifying the top salaries within the AI and Machine Learning fields. It highlights that these roles command the highest compensation, reaching up to 800,000, and are predominantly located in North America, particularly the US and Canada. This insight helps to understand the premium placed on these advanced tech roles in leading tech hubs.
+
+**•	Remote vs. On-Site Salaries-** This analysis compares the average salaries for fully remote, on-site, and hybrid roles. It reveals that while remote roles offer competitive salaries, on-site roles generally pay slightly more. Hybrid roles tend to offer lower salaries. This finding provides a comprehensive view of how the work environment impacts salary levels.
+
+**•	Regional Salary Variation-** This analysis examines the differences in average salaries across various countries. It shows that the US and Canada dominate high-paying jobs, with Israel and Qatar also offering high average salaries. This helps to map out global salary trends and identify regions that offer the most lucrative opportunities.
+
+**•	Salaries by Experience Level-** This analysis compares average salaries across different experience levels, demonstrating a significant increase in compensation with experience. It shows salaries rising from an average of 91,000  at entry-level to 193,000  at executive levels. This highlights the value of experience in securing higher pay.
+
+**•	Company Size and Salaries-** This analysis determines the average salaries based on the size of the companies. It finds that medium-sized companies offer the highest average salaries, likely due to balanced budgets and workforce sizes, while small companies pay the least. This insight is useful for job seekers evaluating potential employers based on company size.
+
+**•	Top Average Salaries by Country-** This analysis identifies countries with the highest average salaries. It reveals that Israel offers the highest average salaries, followed by Qatar and the US. These regions are noted for their high-value tech roles, making them attractive locations for tech professionals seeking top compensation.
+
+**•	Top-Paying Roles-** This analysis finds that roles such as AI Architect and Data Science Tech Lead have the highest average salaries, often exceeding 250,000 . This highlights specific job titles that command premium pay within the tech industry.
+
+**•	Salary Growth Over Years-** This analysis tracks the growth of average salaries over different years. It shows that salaries have grown steadily, with a significant jump from 2022 to 2024, reflecting the rising demand for tech talent. This trend analysis is important for understanding how the tech job market is evolving.
+
+**•	Salaries Paid in-** This analysis examines the dominance of salaries paid in , reflecting the influence of US-based companies in global tech hiring. It underscores the prevalence of the US dollar in the tech industry, which can impact global salary benchmarks.
+
+**•	Senior Remote Opportunities-** This analysis examines the availability of remote work opportunities and their associated salaries for senior-level employees. It finds that senior employees are more likely to have remote opportunities, which pay competitively compared to on-site roles. This insight is crucial for senior professionals considering remote work options.
+
+
+Disclaimer : 
+This project was developed with the assistance of AI, specifically for data exploration, mining, and generating insights using SQL. The AI helped in refining SQL queries, summarizing findings, and providing guidance on best practices
+
+
 eCommerce Database Analysis – SQL Data Analyst Challenge at Maven Analytics.
+
 Analyzed and optimized business marketing channels, website conversion performance, business patterns and seasonality, explore the impact of new product launches and find valuable customers.
 Conducted in-depth analysis on website traffic sources using UTM parameters for various segments of paid traffic for bid optimization. A/B split testing to analyze key landing page by conversion rate.
 Derived conversion funnels for various website pages to understand the user experience towards product purchasing. Day-parting analysis and analyzed seasonality and business patterns to maximize efficiency and anticipate future trends.
@@ -24,9 +43,13 @@ Provide Revenue Insights in Hospitality Domain. – Resume Challenge @ Codebasic
 Significant amount of time was dedicated in Understanding the industry’s Domain knowledge, a few Metrics such as RevPAR, ADR, Occupancy %, SRN, DSRN, Realization, URN, BRN, Revenue, Cancellation, Capacity were thoroughly understood to utilize the true value of the data.
 A Dynamic Dashboard was designed, to capture in-depth analysis of Pricing, Revenue, occupancy trends, a drill down analysis by region, individual properties, booking channels were provided to plan strategic move and regain the market share and revenue.
 Implementing stakeholders’ thoughts into Dashboard through Domain Knowledge and Communication was Achieved.
+
 Provide Insights in Consumer Goods Domain. – Resume Challenge @ Codebasics.io.
+
 A Resume Challenge, to present Insights for an Ad-Hoc-Request by management for a quick and smart data-informed decisions. Requests were answered through SQL Queries and were later presented to the management through Power BI.
+
 SQL - Data Exploration & Data Cleaning.
+
 This Project is a combination of many online SQL challenges from a variety of Sources. Each challenge comes from a different domain are involves a many processes in data analysis, such as Data loading in to SQL database, Data Cleaning and Data Exploration to generate insights. I have done few case-studies of 8-week SQL Challenge by Danny Ma, Data Cleaning on a Nashville Housing Data.
 
 PROFESSIONAL EXPERIENCE
@@ -57,3 +80,57 @@ EDUCATION
 
 BACHELOR OF ENGINEERING - MECHANICAL (2013-2017)
 University Visveswaraya College of Engineering (Bangalore University)
+
+
+Professional Summary
+Detail-oriented and results-driven professional transitioning from a background in administration to data analysis. Skilled in Power BI, SQL, Python, and advanced data visualization techniques. Adept at managing large datasets, performing data cleaning, and crafting insightful dashboards to aid decision-making. Proficient in utilizing real-world datasets to generate actionable insights.
+
+Skills
+Data Analysis & Visualization: Power BI, DAX Functions, Advanced Excel, Matplotlib, Seaborn
+Data Management: SQL (String and Date Functions), Pandas, NumPy
+Programming: Python (Basic), Alteryx
+Business Skills: Report Preparation, Workflow Optimization, Stakeholder Communication
+Other Tools: MySQL, Data Cleaning Techniques
+Work Experience
+Administrative Executive
+[Company Name], [City, State]
+[Month/Year] – [Month/Year]
+
+Coordinated administrative functions for a large organization, ensuring efficiency and accuracy.
+Managed and analyzed organizational data to improve reporting processes.
+Communicated effectively with stakeholders to gather requirements for administrative projects.
+Key Achievements:
+
+Successfully automated reporting tasks, reducing reporting time by 20%.
+Collaborated on cross-functional projects to improve operational workflows.
+Education
+Master of Computer Applications (MCA)
+[University Name], [City, State]
+[Month/Year] – [Month/Year]
+
+Bachelor of Hotel Management (BHM)
+[University Name], [City, State]
+[Month/Year] – [Month/Year]
+
+Projects
+Power BI Dashboards
+Created dynamic dashboards to analyze sales performance, customer segmentation, and trends.
+Developed advanced DAX queries, such as CLOSINGBALANCEMONTH, DATEADD, DATESMTD, and others, for detailed time-intelligence insights.
+Air Quality Analysis
+Utilized Python libraries (Pandas, Matplotlib, Seaborn) to analyze air quality datasets.
+Generated heatmaps and trend analyses to identify seasonal patterns in air pollution.
+Real Estate Data Cleaning & Analysis
+Cleaned a large real estate dataset using SQL substring functions and Pandas.
+Filled missing data with logical assumptions, including "Unknown" for 'Property Type'.
+Delivered an actionable report based on clean data for improved market understanding.
+Sales Data Analysis
+Designed interactive Power BI reports showcasing sales trends and profitability by region.
+Used SQL date functions to identify peak sales periods and forecast seasonal demand.
+Certifications & Achievements
+[Relevant Data Analysis or Power BI Certifications]
+Employee of the Month Award for streamlining administrative processes.
+Consistently exceeded expectations in project delivery during internship and academic projects.
+Additional Information
+Open to relocation for the right opportunity.
+Actively pursuing advanced data analysis certifications to further enhance skills.
+
