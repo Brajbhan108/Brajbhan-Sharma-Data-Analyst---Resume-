@@ -1,4 +1,5 @@
 # Brajbhan Sharma
+
 +919004301259; brajbhansharma42@gmail.com | www.linkedin.com/in/brajbhan-sharma-53332b1b1 | Portfolio Website ---------------- : | https://github.com/Brajbhan108
 
 ### "Detail-oriented and results-driven professional transitioning from a background in administration to data analysis. Enthusiastic about leveraging data analytics to drive strategic business decisions through impactful insights and data-driven methodologies."
@@ -6,6 +7,39 @@
 ## **PROJECT EXPERIENCE**
 
 ### SQL – Unlocking Insights Through SQL Data Exploration and Mining. https://github.com/Brajbhan108/mysql_Project
+
+Power BI <a href="https://github.com/Brajbhan108/Time-Based-Sales-Patterns-Power-bi">Time-Based Sales Patterns</a>
+
+
+
+
+
+
+Analyzed sales data from an online retail dataset to identify key patterns and trends.
+
+Developed interactive dashboards to visualize daily, hourly, and seasonal sales insights.
+
+Power BI Project 2: Real Estate Sales Analysis [Project Link]
+
+Analyzed historical real estate sales data to uncover trends and performance metrics.
+
+Visualized data using Power BI dashboards to provide insights into property types, regional performance, and market dynamics.
+
+Excel Project 1: Sales Analytics [Project Link]
+
+Conducted sales analysis using Excel and SQL to provide a comprehensive sales performance report.
+
+Excel Project 2: HR Data Analysis
+
+Analyzed employee data to identify key workforce trends and measure organizational performance.
+
+Developed dashboards to visualize metrics such as headcount, attrition rates, and employee satisfaction.
+
+SQL Project Case Study
+
+Analyzed salary trends, remote work patterns, and job roles using SQL queries.
+
+Provided insights into highest-paying roles, regional salary variations, and salary growth trends.
 
  - Highest-Paying Roles - This analysis focuses on identifying the top salaries within the AI and Machine Learning fields. It highlights that these roles command the highest compensation, reaching up to 800,000, and are predominantly located in North America, particularly the US and Canada. This insight helps to understand the premium placed on these advanced tech roles in leading tech hubs.
 
@@ -140,6 +174,63 @@ This Project is a combination of many online SQL challenges from a variety of So
 * Technical Skills: Experienced in Data Wrangling, Cleaning and Modeling. Analysis and Visualization of Data by Statistical Approach.  
 * Core Competencies:  Able to work collaboratively with cross-functional teams and effectively communicate insights and recommendations to both technical and non-technical audiences. Can Quickly develop an understanding of a business and domain Knowledge.
 * Additional Skills: Medium proficiency in HTML, CSS, JavaScript, CorelDRAW and  Photoshop
+
+
+👋 Hello World, I'm [Your Name]. 🤝 
+
+❓ Profile Aspiring Data Analyst and Business Analyst with a solid foundation in analytics and machine learning, successfully translating complex challenges into actionable insights. Proficient in data extraction, cleaning, visualization, and optimizing decision-making processes. Exceptional communication skills for effectively conveying intricate data findings with clarity.
+
+🛠️ Skills
+
+Languages and Libraries SQL, Python, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
+
+Tools and Technologies GitHub, Excel, Power BI, VS Code, Jupyter Notebook
+
+Machine Learning Supervised Learning: Classification, Regression Unsupervised Learning: Clustering
+
+Soft Skills Communication, Teamwork, Collaboration, Presentation, Project Management
+
+🌱 Learning Goals I'm always excited to expand my skills and knowledge. Some of my current learning goals include:
+
+NLP
+
+Pytorch and TensorFlow
+
+Docker
+
+PySpark
+
+🔭 Projects
+
+Power BI Project 1: Time-Based Sales Patterns [Project Link]
+
+Analyzed sales data from an online retail dataset to identify key patterns and trends.
+
+Developed interactive dashboards to visualize daily, hourly, and seasonal sales insights.
+
+Power BI Project 2: Real Estate Sales Analysis [Project Link]
+
+Analyzed historical real estate sales data to uncover trends and performance metrics.
+
+Visualized data using Power BI dashboards to provide insights into property types, regional performance, and market dynamics.
+
+Excel Project 1: Sales Analytics [Project Link]
+
+Conducted sales analysis using Excel and SQL to provide a comprehensive sales performance report.
+
+Excel Project 2: HR Data Analysis
+
+Analyzed employee data to identify key workforce trends and measure organizational performance.
+
+Developed dashboards to visualize metrics such as headcount, attrition rates, and employee satisfaction.
+
+SQL Project Case Study
+
+Analyzed salary trends, remote work patterns, and job roles using SQL queries.
+
+Provided insights into highest-paying roles, regional salary variations, and salary growth trends.
+
+🚀 Thanks for your time, and once again you can reach me on LinkedIn!
 
 
 
