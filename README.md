@@ -19,10 +19,7 @@ Docker
 
 PySpark
 
-## **PROJECT EXPERIENCE**
-### Power BI <a href="https://github.com/Brajbhan108/Time-Based-Sales-Patterns-Power-bi">Time-Based Sales Patterns</a>
-
-### 🔭 Projects
+### 🔭 PROJECT EXPERIENCE
 
 #### Power BI-  <a href="https://github.com/Brajbhan108/Time-Based-Sales-Patterns-Power-bi">Time-Based Sales Patterns</a>
 
@@ -52,16 +49,14 @@ Analyzed salary trends, remote work patterns, and job roles using SQL queries.
 
 Provided insights into highest-paying roles, regional salary variations, and salary growth trends.
 
-
-
-## SKILLS
+### 🛠️ SKILLS
 * Data Analysis & Visualization: Power BI, DAX Functions, Advanced Excel, VBA, Matplotlib, Seaborn,Plotly
 * Data Management: MySQL, SQL Server , Big Quary ,  Alteryx, Pandas, NumPy
 * Programming: Python, SQL
 * Soft Skills: Communication, Teamwork, Collaboration, Presentation, Project Management
 * Additional Skills: Medium proficiency in HTML, CSS, JavaScript, CorelDRAW, Photoshop
 
-## PROFESSIONAL EXPERIENCE 
+### 💼 PROFESSIONAL EXPERIENCE 
 Administrative Executive, Gutenberg Communication ,  | Feb-2021 - Mar- 2024
 
 * Managed administrative tasks, improving operational efficiency and supporting business processes.
@@ -71,7 +66,7 @@ Administrative Executive, Gutenberg Communication ,  | Feb-2021 - Mar- 2024
 * Coordinated administrative functions for a large organization, ensuring efficiency and accuracy.
 * Communicated effectively with stakeholders to gather requirements for administrative projects
 
-## EDUCATION 
+### 🎓 EDUCATION 
 Master of Computer Aplication (Parsuing) - Data Scince and AI <br> 
 IGNOU (2023 -2025) 
 
